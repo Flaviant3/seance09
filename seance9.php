@@ -62,3 +62,4 @@ echo $perso3->afficherAttributs();
 ?>
 </body>
 </html>
+<!-- Coded by flaviant3 -->

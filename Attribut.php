@@ -63,5 +63,5 @@ class Magie extends Attribut {
         return '<b>La magie</b> est un/une '.$this->nom.', il/elle produit '.$this->pointDeDegat.' points de dégâts et '.$this->pointDeProtection.' points de protection <br>';
     }
 }
-
-
+//coded by flaviant3
+?>

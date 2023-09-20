@@ -128,3 +128,5 @@ class Gobelin extends Personnage {
         }
     }
 }
+//coded by flaviant3
+?>

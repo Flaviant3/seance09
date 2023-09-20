@@ -40,3 +40,5 @@ abstract class Affichage
         echo $html;
     }
 }
+//coded by flaviant3
+?>

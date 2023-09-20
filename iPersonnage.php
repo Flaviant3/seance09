@@ -8,4 +8,5 @@ interface iPersonnage
     public function affichePersonnage();
     public function addAttribut($attributs);
 }
-
+//coded by flaviant3
+?>
